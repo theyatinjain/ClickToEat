@@ -3,7 +3,7 @@
 Basic React Food Ordering App.
 
 
-Link : [ClickToEat](https://theyatinjain.github.io/ClickToEat)
+Link : [ClickToEat](https://clicktoeat77.web.app)
 
 #
 
